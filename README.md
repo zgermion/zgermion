@@ -8,4 +8,4 @@
 | ------------- | ------------- | ------------- |
 | [Экзамен на AIMasters](https://github.com/zgermion/exam_ai)  | Решение вступительного кейса на программу BI аналитики AIMasters  | Math, Python, SQL  |
 | [ML](https://github.com/zgermion/ML)  | Собственная реализация методов машинного обучения  | Python |
-| [ML](https://github.com/zgermion/python_hw) | Собственная реализация методов машинного обучения  | Python |
+| [Python HW](https://github.com/zgermion/python_hw) | Решение общих задач на Python  | Python |
