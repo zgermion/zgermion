@@ -10,6 +10,7 @@
 | [ML](https://github.com/zgermion/ML)  | Собственная реализация методов машинного обучения  | Python |
 | [Python HW](https://github.com/zgermion/python_hw) | Решение общих задач на Python  | Python |
 | [Edu-Bot](https://github.com/zgermion/edu-bot) | Бот, позволяющий выкладывать статьи в телеграм-боте| Python |
+| [Price_House](https://github.com/zgermion/AI_Master_Price_House) | Предсказание стоимости недвижимости в Москве методами машинного обучения| Python (NumPy, Pandas, MatPlotLib, Catboost, XGB, LightGBM, StatsModels) |
 
 🧑🏻‍💻 Мои проекты
 
